@@ -1,5 +1,5 @@
 ## Hi there 👋
-<img src="https://ibb.co.com/pp8qQdS" width="500" alt="Funny Cat GIF">
+<img src="https://ibb.co.com/pp8qQdS.gif" width="500" alt=" GIF">
 
 
 <!--
