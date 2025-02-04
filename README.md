@@ -1,4 +1,6 @@
 ## Hi there 👋
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="500" alt="Funny Cat GIF">
+
 
 <!--
 **Rifat-Alam-Chowdhury/Rifat-Alam-Chowdhury** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
