@@ -28,13 +28,13 @@
 ###
 ## About Me
 
-- 🎓 I'm a **[Your Degree]** student with a passion for learning web development and software engineering.
+- 🎓 I'm a **CS** student with a passion for learning web development and software engineering.
 - 🌱 Currently learning and working on projects using **JavaScript, React, Node.js**, and other technologies.
 - 🚀 Always excited to improve my skills and explore new technologies.
-- 💬 Feel free to reach out about **[Your Interests or Learning Areas]**.
-- 📫 You can contact me at: **[Your Email or Contact Info]**.
+- 💬 Feel free to reach out about **web development, MERN stack, JavaScript, React, Node.js, MongoDB, Express** or anything related to building full-stack web applications.
+- 📫 You can contact me at: **Rifatalamtabs2@gmail.com**.
 
-<h3 align="left">Find Me</h3>
+<h3 align="left">Also Find Me</h3>
 
 ###
 
