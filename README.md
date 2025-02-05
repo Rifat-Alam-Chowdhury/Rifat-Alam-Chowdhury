@@ -7,18 +7,6 @@
 <h2 align="left">Technologies I Use</h2>
 
 ###
-
-
-
-
-## About Me
-
-- 🎓 I'm a **[Your Degree]** graduate with a passion for **[Technologies/Skills]**.
-- 💼 Currently working on **[Your Job or Projects]**.
-- 🌱 I’m always learning new technologies, currently focused on **[Current Learning Focus]**.
-- 💬 Ask me about **[Your Interests/Expertise]**.
-- 📫 How to reach me: **[Your Email or Contact Info]**.
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="49" alt="javascript logo"  />
   <img width="12" />
@@ -38,6 +26,13 @@
 </div>
 
 ###
+## About Me
+
+- 🎓 I'm a **[Your Degree]** student with a passion for learning web development and software engineering.
+- 🌱 Currently learning and working on projects using **JavaScript, React, Node.js**, and other technologies.
+- 🚀 Always excited to improve my skills and explore new technologies.
+- 💬 Feel free to reach out about **[Your Interests or Learning Areas]**.
+- 📫 You can contact me at: **[Your Email or Contact Info]**.
 
 <h3 align="left">Find Me</h3>
 
