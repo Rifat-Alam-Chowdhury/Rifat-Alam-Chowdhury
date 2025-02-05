@@ -8,6 +8,17 @@
 
 ###
 
+
+
+
+## About Me
+
+- 🎓 I'm a **[Your Degree]** graduate with a passion for **[Technologies/Skills]**.
+- 💼 Currently working on **[Your Job or Projects]**.
+- 🌱 I’m always learning new technologies, currently focused on **[Current Learning Focus]**.
+- 💬 Ask me about **[Your Interests/Expertise]**.
+- 📫 How to reach me: **[Your Email or Contact Info]**.
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="49" alt="javascript logo"  />
   <img width="12" />
