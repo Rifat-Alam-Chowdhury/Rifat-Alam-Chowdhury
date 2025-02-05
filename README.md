@@ -49,6 +49,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Rifat-Alam-Chowdhury/Rifat-Alam-Chowdhury/output/snake.svg" alt="Snake animation" />
+![Snake animation](https://raw.githubusercontent.com/Rifat-Alam-Chowdhury/Rifat-Alam-Chowdhury/output/snake.svg?raw=true)
+
 
 ###
