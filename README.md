@@ -4,6 +4,10 @@
 
 ###
 
+<h2 align="left">Technologies I Use</h2>
+
+###
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="49" alt="javascript logo"  />
   <img width="12" />
@@ -21,6 +25,10 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="49" alt="tailwindcss logo"  />
 </div>
+
+###
+
+<h3 align="left">Find Me</h3>
 
 ###
 
@@ -46,8 +54,6 @@
 </div>
 
 ###
-
-<br clear="both">
 
 <img src="https://raw.githubusercontent.com/Rifat-Alam-Chowdhury/Rifat-Alam-Chowdhury/output/snake.svg" alt="Snake animation" />
 
